@@ -1,7 +1,7 @@
 # Operating-System-Assignment
 Simulation based assignment on Process Management and Process Synchronization
 
-
+Solution with C program is in  zip file 
 
 
 Q.6 	Suppose that the following processes arrive for execution at the times indicated. Each process will run for the amount of time listed. In answering the questions, use nonpreemptive scheduling, and base all decisions on the information you have at the time the decision must be made.
